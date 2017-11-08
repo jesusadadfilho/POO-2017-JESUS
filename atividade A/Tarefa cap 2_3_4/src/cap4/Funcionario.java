@@ -1,10 +1,10 @@
 package cap4;
 
-public class funcionario {
+public class Funcionario {
 	String departamento;
 	int salario;
-	data dataDeEntrada;
-	pessoa gente;
+	Data dataDeEntrada;
+	Pessoa gente;
 	
 	
 	

@@ -1,6 +1,6 @@
 package cap4;
 
-class conta {
+class Conta {
 	int numero;
 	String dono;
 	String cpf;
@@ -14,7 +14,7 @@ class conta {
 		this.saldo += quantidade;
 	}
 	
-	boolean transferir(conta destino, int valor){
+	boolean transferir(Conta destino, int valor){
 		if (this.saldo < valor) {
 			return false;
 		}

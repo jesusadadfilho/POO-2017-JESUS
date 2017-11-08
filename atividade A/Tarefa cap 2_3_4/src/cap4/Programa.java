@@ -2,14 +2,14 @@ package cap4;
 
 public class Programa {
 	public static void main(String args[]) {
-		conta minhaConta;
-		minhaConta = new conta();
+		Conta minhaConta;
+		minhaConta = new Conta();
 		minhaConta.dono = "jesus";
 		minhaConta.saldo = 5000;
 		minhaConta.numero = 123;
 		minhaConta.limite = 500000;
 		minhaConta.cpf = "123.456.789-0";
-		conta conta2 = new conta();
+		Conta conta2 = new Conta();
 		conta2.dono ="jesus";
 		conta2.depositar(minhaConta.saldo);
 		System.out.println(conta2.saldo);

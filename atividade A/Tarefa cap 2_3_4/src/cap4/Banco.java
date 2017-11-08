@@ -3,16 +3,16 @@ package cap4;
 public class Banco {
 
 	public static void main(String args []) {
-		funcionario joao;
-		joao = new funcionario();
+		Funcionario joao;
+		joao = new Funcionario();
 		joao.nome = "joao";
 		joao.salario = 5000;
 		joao.departamento = "finanças";
 		joao.dataDeEntrada.dia = 3 ;
 		joao.dataDeEntrada.mes = 12;
 		joao.dataDeEntrada.ano = 10;
-		funcionario f1 = new funcionario();
-		funcionario f2 = new funcionario();
+		Funcionario f1 = new Funcionario();
+		Funcionario f2 = new Funcionario();
 		
 		f1.nome = "jesus";
 		f2.nome = "jesus";

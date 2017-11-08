@@ -1,6 +1,6 @@
 package cap4;
 
-class pessoa {
+class Pessoa {
 
 	String  nome;
 	String cpf;
