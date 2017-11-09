@@ -1,0 +1,11 @@
+Com o passar do tempo os programadores que ultilizavão programação estruturada passaram a nescecitar de uma,
+forma de programar que lhes desem mais organização de controle do seu codigo, com isso surgiu a programação orientada á 
+objeto(POO), diferente da programação estruturada com a "POO" se torna posssivel o Encapsulamento do codigo que o permite
+que ele se divida em clases e o torne mais dinamico; a Herança que permite que diferentes classes compartilhem metodos e
+variaveis permitindo o compartilhamento de caracteristicas; a Abstração que torna possivel tranformar processos do mundo
+"real" em linhas de codigo; e o Polimorfismo que permite a classes serem instannciadas em qualquer lugar do codigo.Com 
+essas carcteristicas a POO tornou-se muito mais ultilizada em codigos massivo principalmente de empressasde grande porte.
+Dentro da POO existe o conceito de classe e objeto, as classes são basicamente a "forma" dos objetos elas apresentam os metodos
+ e as variaveis que um objeto vai obdeccer como por exemplo uma receita de bolo onde a receita seria a classe dizendo como se prepara
+ um bolo quais ingredientes, a maneira de preparo e etc, já o bolo seria o objeto algo que foi instanciado seguindo as "regras" que sua
+classe impoem.Os objetos podem ser instanciados etodo o projeto desde que sua classe esteja publica. 
