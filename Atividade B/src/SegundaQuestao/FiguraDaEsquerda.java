@@ -8,5 +8,6 @@ public class FiguraDaEsquerda {
 			number ++;
 		
 		}
+		System.out.println(sum);
 	}
 }
