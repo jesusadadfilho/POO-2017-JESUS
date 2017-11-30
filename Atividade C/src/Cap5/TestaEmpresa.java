@@ -8,11 +8,11 @@ public class TestaEmpresa {
 		Funcionario jesus = new Funcionario();
 		for (int i = 0; i < 5; i++) {
 			Funcionario f = new Funcionario();
-			f.salario = 1000 + i * 100;
+			f.setSalario(1000 + i * 100); ;
 			fiat.adiciona(f);
 			}
-		//fiat.MostrarFuncionarios();
-		if(fiat.contem(jesus)){
+		fiat.MostrarFuncionarios();
+		if(fiat.contem(joao)){
 			System.out.println("contem");
 		}
 		else {

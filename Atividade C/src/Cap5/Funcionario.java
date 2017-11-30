@@ -1,17 +1,34 @@
 package Cap5;
 
 public class Funcionario {
-	String departamento;
-	int salario;
-	Data dataDeEntrada = new Data();
-	Pessoa gente = new Pessoa();
+	private String departamento;
+	private int salario;
+	private Data dataDeEntrada = new Data();
+	private Pessoa gente = new Pessoa();
+	private int indetificador;
 	
-	
+	public Funcionario(String nome) {
+		this.gente.nome = nome;
+		this.indetificador++;
+		
+	}
+	public Funcionario() {
+		this.indetificador++;
+	}
 	
 	public void receberAumento(int valor) {
 		this.salario += valor;
 	}
-	
+	public void setSalario(int valor) {
+		this.salario = valor;
+	}
+	public int GetSalario() {
+		return this.salario;
+	}
+	public Funcionario GetPosicao(int pos) {
+		return this;
+		
+	}
 	void DadosFuncionario() {
 		System.out.println("Departamento: "+this.departamento);
 		System.out.println("Salario "+ this.salario);
