@@ -1,0 +1,2 @@
+"metodo 2, classe B"
+o codigo vai correr normalmente, pois o objeto a é um objeto A que é uma classe mãe de B

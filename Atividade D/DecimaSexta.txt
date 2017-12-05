@@ -1,0 +1,1 @@
+Pois existem duas funçoes na classe que não se diferenciam e acaba dando conflito
