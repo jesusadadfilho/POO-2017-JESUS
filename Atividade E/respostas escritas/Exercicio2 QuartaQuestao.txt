@@ -1,0 +1,1 @@
+A saida ira ser a primeira opção já que o switch funciona alternando entre os valores que são postos no parenteses

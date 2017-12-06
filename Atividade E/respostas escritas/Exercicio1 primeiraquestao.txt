@@ -1,0 +1,2 @@
+uma classe tem atributo e metodos que guardam caracteristicas e um objeto é uma instancia de uma classe que carrega carecteristicas da classe da qual foi criada
+ex.a planta baixa de uma casa seria uma classe e a casa seria um objeto dela

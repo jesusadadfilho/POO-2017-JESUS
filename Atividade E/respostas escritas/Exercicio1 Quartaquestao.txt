@@ -1,0 +1,2 @@
+A.Sim, pois assim usando pessoa como atributo seria melhor para redução de codigo
+B. Não, pois seria melhor as contas chamarem o seu titular que seria a classe pessoa

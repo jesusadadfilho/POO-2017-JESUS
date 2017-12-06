@@ -1,0 +1,5 @@
+Alem da ordem esta invertida falta a geraçao do arquivo .class
+ordem coreta seria:
+javac Avaliacao.java
+Avaliacao.class
+java Avaliacao

@@ -1,0 +1,2 @@
+atributos são as variaveis de uma classe elas são os valores que um objeto quarda e metodos são funçoes ou comportamentos de uma classe
+no exemplo ca casa de da planta um atributo seria o numeros de porta de uma casa e um metodo seria abrir uma porta

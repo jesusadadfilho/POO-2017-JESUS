@@ -1,0 +1,1 @@
+a falta do paratenses com a informação "String[] args" não tornou o codigo execultavel e a variavel contador não foi inicializada mas mesmo assim ela esta sendo chamada

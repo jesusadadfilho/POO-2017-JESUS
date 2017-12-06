@@ -1,0 +1,2 @@
+vai ser exibida na tela o else ja que no if apesar da operação com a variavel b ser veradadeira no if está sendo usado o operador and que
+para o if ser verdadeiro ambas as operações necessitam ser verdadeiras

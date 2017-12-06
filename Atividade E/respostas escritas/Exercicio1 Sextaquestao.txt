@@ -1,0 +1,3 @@
+Personagem principal; atributos: vida, dano, velocidade; metodos: andar, pular, correr
+mapa; atributos: tamanho, armadilhas; metodos: se destruir, geração altomatica
+inimigo; atributos: vida, dano, velocidade; metodos: andar
