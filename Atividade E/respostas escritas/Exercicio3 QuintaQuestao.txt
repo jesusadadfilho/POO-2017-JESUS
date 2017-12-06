@@ -1,0 +1,6 @@
+O erro acontece pela falta de um valor no construtor o certo seria colocar o valor no contrutor ao inves de ultilizar uma variavel
+public class TestaRadio {
+public static void main(String[] args) {
+Radio r = new Radio(10);
+}
+}

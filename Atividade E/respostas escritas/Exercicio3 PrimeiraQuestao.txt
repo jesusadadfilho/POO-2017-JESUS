@@ -1,0 +1,1 @@
+Sim, pois variaveis que não foram inicializadas não podem efetuar operações

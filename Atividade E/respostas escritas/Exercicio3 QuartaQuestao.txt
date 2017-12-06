@@ -1,0 +1,4 @@
+Supondo que a variavel já tenha sido declarada, o que falta é a ultilização do this antes da variavel
+void x(double valor) {
+this.valor = valor + valor;
+}

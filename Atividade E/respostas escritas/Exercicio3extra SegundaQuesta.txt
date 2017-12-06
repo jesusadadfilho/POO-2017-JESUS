@@ -1,0 +1,1 @@
+o resultado será System.out.print(2*atributo1 - atributo2); pois ao chamar o metodo ele não será mais zero

@@ -1,0 +1,7 @@
+o erro acontece pela a falta de um valor no construtor
+maneira correta
+public class TestPost {
+public static void main(String[] args){
+Post p = new Post(1);
+}
+}

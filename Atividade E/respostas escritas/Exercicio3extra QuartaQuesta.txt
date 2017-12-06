@@ -1,0 +1,1 @@
+Sim não podemos executar ppprogramas com variaveis sem inicializar elas

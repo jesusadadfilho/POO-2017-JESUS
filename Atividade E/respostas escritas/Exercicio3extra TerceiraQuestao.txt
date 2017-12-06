@@ -1,0 +1,1 @@
+Vai dar erro já que o j não foi inicializado

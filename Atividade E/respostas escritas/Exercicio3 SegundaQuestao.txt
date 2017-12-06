@@ -1,0 +1,1 @@
+Continua o mesmo já que, apesar de passar um valor no construtor não foi escrito que esse valor seria o da variavel

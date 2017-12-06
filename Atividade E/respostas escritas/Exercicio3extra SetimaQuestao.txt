@@ -1,0 +1,7 @@
+o problema foi a falta do this
+public class Produto {
+int quantidade;
+void acumula (int quantidade) {
+this.quantidade++;
+}
+}

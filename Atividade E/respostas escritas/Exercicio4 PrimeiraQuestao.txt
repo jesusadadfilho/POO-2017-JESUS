@@ -1,0 +1,1 @@
+Está sendo imprimido os indices do vetor
