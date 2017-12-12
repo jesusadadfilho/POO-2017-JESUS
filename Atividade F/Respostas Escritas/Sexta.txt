@@ -1,0 +1,1 @@
+O metodo existe para forçar as classes filhas á ter esse metodo nelas tambem.Se caso não existisse mais as classes poderiam continuar com os metodos

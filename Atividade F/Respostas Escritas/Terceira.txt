@@ -1,0 +1,1 @@
+Por conta do metodo ser abstrato ele não deve ter corpo no metodo só quando chamado
