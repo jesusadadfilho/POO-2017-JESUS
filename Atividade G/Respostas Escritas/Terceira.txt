@@ -1,0 +1,1 @@
+Não compila, pois classes que herdam classes abstratas precisam implemntar os metodos na sua classe

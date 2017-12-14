@@ -1,0 +1,1 @@
+Apesar da criação do vetor de contas não foi declarado o contas[0] não foii declarado como conta

@@ -1,0 +1,1 @@
+Não, pois classes abstratas sevem apenas para serem usadas com classes bases para outras
