@@ -1,0 +1,3 @@
+Porque nós podemos fazer um vetor de objetos que são figuras geometricas 
+que herdaram dela mas não podemos instanciar dela já que ela é uma classe abstrata
+ 

@@ -1,6 +1,6 @@
 package QuintaQuestao.Model;
 
 public abstract class Funcionario {
-    double bonificação;
-    abstract double getBonificação();
+    double Bonificacao;
+    abstract double getBonificacao();
 }

@@ -4,8 +4,10 @@ public class Gerente extends Funcionario {
 
     double salario;
     double lucro;
-    @Override
-    double getBonificação() {
-        return super.bonificação * (salario / lucro);
-    }
+	@Override
+	double getBonificacao() {
+		double boniicacao = super.Bonificacao;
+		return boniicacao * (salario / lucro);
+	}
+    
 }
