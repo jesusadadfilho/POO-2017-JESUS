@@ -1,0 +1,1 @@
+Apesar do erro acontecer o codigo é executado e mostra qual foi o erro que aconteu

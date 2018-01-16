@@ -1,0 +1,3 @@
+Quando colocamos o try no main ao chamar o metodo 1 o codigo vai executar todo já esperando pelo erro,
+já que o metodo 1 está chamando o metodo 2(onde o erro acontece), ele executa até o erro ai para de executar o 
+metodo 1 finaliza o main.
