@@ -3,7 +3,7 @@ package Model;
 import Model.Exceptions.SaldoInsuficienteException;
 
 public class Conta {
-    private double Saldo;
+    protected double Saldo;
 
     void sacar(double valor){
         if (this.Saldo < valor) {
@@ -13,9 +13,13 @@ public class Conta {
         }
     }
 
-    void deposita(double valor){
+    public void deposita(double valor){
         if(valor > 0){
             this.Saldo += valor;
         }
     }
+	public double consultarSaldo() {
+		return this.Saldo;
+	}
+	
 }
