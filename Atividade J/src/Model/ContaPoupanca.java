@@ -1,5 +1,6 @@
 package Model;
 
+import Model.Exceptions.SaldoInsuficienteException;
 import Model.Exceptions.ValorInvalidoException;
 
 public class ContaPoupanca extends Conta {

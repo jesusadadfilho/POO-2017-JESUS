@@ -2,7 +2,7 @@ package Model;
 
 import Model.Exceptions.SaldoInsuficienteException;
 
-public class Conta {
+public class Conta implements Comparable<Conta>  {
     protected double Saldo;
 
     void sacar(double valor){
@@ -21,5 +21,17 @@ public class Conta {
 	public double consultarSaldo() {
 		return this.Saldo;
 	}
+
+	@Override
+	public int compareTo(Conta o) {
+		if(this.consultarSaldo() > o.consultarSaldo()){
+            return -1;
+        }else if(o.consultarSaldo() < this.consultarSaldo()){
+            return 1;
+        }else {
+            return 0;
+        }
+	}
+
 	
 }
